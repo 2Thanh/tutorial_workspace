@@ -1,0 +1,8 @@
+prefix=/home/thanh/tutorial_workspace/devel
+
+Name: turtleboot_tut
+Description: Description of turtleboot_tut
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
